@@ -1,11 +1,9 @@
 import React from 'react';
 import { launch } from '@sencha/ext-react';
 import { ExtReact } from '@sencha/ext-react';
-import './index.scss';
 import App from './components/App';
-import { ExtReact } from '@sencha/ext-react'
-import { launch } from '@sencha/ext-react'
 import authenticate from './Authenticate'
+import './index.scss';
 
 const token = authenticate()
 
