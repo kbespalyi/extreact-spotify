@@ -30,7 +30,7 @@
         "@sencha/ext-react": "^7.0.0",
         "@sencha/ext-react-renderercell": "^7.0.0",
         "@sencha/ext-react-transition": "^7.0.0",
-        "axios": "^0.18.1",
+        "axios": "^0.21.1",
         "tar": "^2.2.2",
         "fstream": "^1.0.12",
         "lodash": "^4.17.12",
